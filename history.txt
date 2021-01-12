@@ -1,0 +1,6 @@
+This is the story about learning git 
+
+It is a interesting tool for developers whoam it helps a lot in the management of code changes
+
+Finally, I will start with basic principles about it
+
