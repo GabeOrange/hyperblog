@@ -2,5 +2,7 @@ This is the story about learning git
 
 It is a interesting tool for developers whoam it helps a lot in the management of code changes
 
+IELTS is the worst exam ever it is a fuckin shit
+
 Finally, I will start with basic principles about it
 
