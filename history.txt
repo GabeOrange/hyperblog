@@ -2,11 +2,6 @@ This is the story about learning git
 
 It is a interesting tool for developers whoam it helps a lot in the management of code changes
 
-IELTS is the worst exam ever it is a fuckin shit
+tomorrow we will continue with more lessons about git
 
-Finally, I will start with basic principles about it
-
-Addionally, I will do some changes to this file in that I have to practice git
-
-Moreover, I have to finish this course because I need to continue with cisco python
 
