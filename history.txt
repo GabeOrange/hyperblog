@@ -2,6 +2,8 @@ This is the story about learning git
 
 It is a interesting tool for developers whoam it helps a lot in the management of code changes
 
+Master 1
+
 tomorrow we will continue with more lessons about git
 
 
