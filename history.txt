@@ -4,6 +4,8 @@ It is a interesting tool for developers whoam it helps a lot in the management o
 
 Master 1
 
+Master 2
+
 tomorrow we will continue with more lessons about git
 
 
