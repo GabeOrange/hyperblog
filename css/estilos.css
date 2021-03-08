@@ -8,35 +8,25 @@ body
     margin: 0;
     padding: 0;
 }
-
-#cabecera
-{
+fd
     background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
-    font-weight: bold;
-    margin: 0;
-    padding: 0.5em;
+    color: white;gfds
 
 }
 
 #cabecera #logo
 {
     width: 20px;
-    vertical-align: middle;
-}
-
-
-#cabecera #tagline
+    vertical-align:g
+fdsg
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
-}
-
+    font-size: 0.8em;fdg
 #container
 {
-    width: 70%;
+    width: 70%;fgsdfg
     padding: 0;
     text-align: left;
     border: 1px solid #DDD;
@@ -56,7 +46,7 @@ body
 
 #footer
 {
-    background: #777;
+    background: #37488b;
     color:white;
     text-align: center;
     font-family: "Courier";
